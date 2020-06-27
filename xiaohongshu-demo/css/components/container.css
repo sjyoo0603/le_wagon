@@ -1,6 +1,6 @@
 .container {
     width: 95%;
-    margin: 6em auto;
+    margin: 3em auto;
     background-color: black;
     padding-top: 1.5em;
     padding-right: 1.5em;
@@ -40,6 +40,7 @@ img, iframe {
     font-size: .85em;
     display: flex;
     justify-content: space-between;
+    box-sizing: border-box;
 }
 
 .flexboxstuff {
@@ -82,15 +83,6 @@ img, iframe {
 .fa-star {
   color: black;
 }
-
-
-
-
-
-
-
-
-
 
 
 
