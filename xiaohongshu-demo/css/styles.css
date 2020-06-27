@@ -7,10 +7,10 @@
 
 /* --- Fonts & colors --- */
 body {
-  background-color: rgb(245,245,245);
-  font-family: "Open Sans", "Helvetica", "sans-serif";
-  margin: 0;
+    font-family: "Open Sans", "Helvetica", "sans-serif";
+    margin: 0;
 }
 h1, h2, h3 {
   font-family: "Poppins", "sans-serif";
 }
+
